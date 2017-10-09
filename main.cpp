@@ -23,7 +23,6 @@ auto find_two_elements_with_sum(Iterator first, Iterator last, T c)
 				break;
 			}
 		}
-		cout << "not found" <<endl;
 	
 	return 0;
 }
